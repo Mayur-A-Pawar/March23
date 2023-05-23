@@ -1,0 +1,31 @@
+* start reading about
+what is request ?
+what is respond ?
+
+**** GIT ****
+* open source, Fast, Scalable, Distrubuted version system
+	- Version Control System
+
+--->WHY ?
+	* Git is the most popular distributed version control system
+	* You will work
+
+--->Types of Version Control
+	1. Local VCS:
+		(diagram in PPT)
+	2. Centralised VCS (cVCS):
+	   Ex : Subversion, Perforc, ...
+		(diagram in PPT)	
+	3. Distributed VCS (DVCS):
+	   Ex : Git, Mercurial, ...
+		(diagram in PPT)
+
+* PUSH --> send date to server
+* PULL --> get data from server
+
+*** GIT COMMANDs ***
+
+1.Git add
+2.commit
+3.push
+4.pull
